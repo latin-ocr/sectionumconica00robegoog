@@ -1,0 +1,45 @@
+De Parabola. 5 3
+
+BL ut anangulum FGl ad reetangulum ALQ- Patet, per Prop.
+α 5. 1. etDef. 3. hujusce.
+
+A Pars 11. Sit ree‘la NL parabolae ABC diameter, cujus stt vertex B, Fre. rr..
+et occurrat in punelis N, L, duabus renis parallelis NT, AC, qua-
+rum NT contingit in T, AC autem =secat in A, C, parabolam, seg-
+mentum BN erit ad segmentum BL ut quadratum ex NT ad reet-
+angulum ALC.-Patet‚ per Prop. 26. r. et Def. 3. hujusce.
+
+Cor. l. Abscissa nerjuavis diametri parabola sunt inter le ut· qua·
+
+dtata suarum ordinatarum. Nam, manentibus jam posuis, sa diame· Fra. ιο.
+ter BL bifariam secet Fl, Ac, erit BG ad BL ut reelangulum FGI
+
+ad reetangulum ALC, hoc est, ut quadratum ex GI ad quadratum
+
+“illail- 11. Si reeta DE contingat parabolam in B et occurrat in D,
+
+Ε, duabus diametris F D, CE, quarum sunt vertices F,C ς segmen·
+tum FD etit ad segmentum EC ut quadratum ex DB ad quadratum
+ex BE. Ducantur enim F G, CL contingenti DE parallelae et oc-
+currentes diametro BL per contactum uuuae inv G, L, T um reeta
+FG, CL erunt ordinatae diametro BL, per Cor. a. Prope 33 et proi·
+inde, per Cor. praecedens, ut BG ad BL ita quadratum ex FG ad
+quadratum ex CL. Sed figurae DG, Bc funt parallelogramma, per
+construfflonem et cor. ι. Def. 3 ς, et ideirco (34. ι.) ut. DF ael
+EC ita quadratum ex DB ad quadratum ex BE.
+
+LEMMA.
+
+Sint quatuor reeta, et earum prinmad fecundam habeat ean·
+dem rationem quam quadratum ex terail ad quadratum:
+ea quarm recta quae prima et tertiae est tertia proportio-
+
+, nalis, erit quoque secunda et quattae tertia proportionalia..
+
+ABEAT reeta AB ad tellam AC eandem rationem quam ‘qua- Frc. ιι.
+
+dratum ex rena DE ad quadratum ex rena FG, fit ευῑεὲὶη
+re a
+
+ 
+

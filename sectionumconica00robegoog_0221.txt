@@ -1,0 +1,52 @@
+154 Senianum (sentiarum Lus. IV.
+
+vero duae quaevis resiae hyperbolas oppositas F BG, PAQ contin·
+gentes nbi invicem occurrant, pundium occursus erit intra angu-
+lum MCH vel RCS qui deinceps est angulo Hcs. Nam resta per
+centrum C et pundum occursus dosia erit secunda diameter, pe'r
+Cor. 2. Pro . 36.
+
+Cor. tv, pHinc dure κᾶε hyperbolem vel hyperbolae oppositas
+contingentes non possunt [ibi invicem occurrere in asymptoto. .
+
+Cor. V. Si diametri AB, DE sint axes, bifariam secabunt angu-
+
+los Hcs, Mera.-
+
+PRO Ρ. XLIII.
+
+Si per punsium quodvis in asymptoto pofiturnducatur resia
+hyperbolam vel hyperbolae oppositas secans, resiangulum
+sub ejus segmentis, inter pundum et curvam vel curvas,
+aequale erit quadrato ex semidiametro ipfi paralleli.
+
+Μ· 3⁸· INT hyperbolae oppositae F BG, PAQquamm asymptoti sunt
+
+HR, SM et centrum C 3 et per punsium Sin asymptoto CS
+
+ducatur resia QL secans hyperbolas oppositas io Q, L, et resia SGF
+
+secans hyperbolam FBG in F, G 3 porro stt resia Q„ parallelo dia·
+
+metro transversa AB, reeta vero SGF parallela diametro secundae
+
+DE 3 resiangulum LSQaequale erit quadrato ex semidiametro CB,
+resiangulum vtro F SG aequale quadrato ex semidiametro DC.
+
+Nam resiangulum LSQaequaleestrestangulo ACB, per Prop. 39⁵
+hoc est aequale quadrato ex CB, per Prop. 4²· Rursus ut res’ran.
+gulum Lst resiangulum F SG ita quadratum ex CB ad quadra.
+tum ex DC, per Prop. 16. Ergo (14 5.) resiangulum FSG aequaq
+le est quadrato ex DC. Q E. D. '
+
+Cor. 1. Manentibus jam posuis, st resia KI ipsr FG vel diametro
+DE parallela contingat hyperboiam FBG in pundo B et occurrat
+asymptotis in K, 13 erunt quadratum ex KB vel IB aequale quad-
+rato ex semidiametro DC, et contingens KI aequalis diametro DE.
+Nam quadratum ex KB vel lB aequale est redangulo FSG, per
+Prop. 403 et proinde1c0r. paren-Patet etiam quod duae restae par·
+
+allelae
+
+ 
+

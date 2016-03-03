@@ -1,0 +1,46 @@
+De Parabola. 67
+
+ciem continget per Cor. r. Prop. 6. 1. et plano per reelas DF, BE
+transeunti (ις. rr.) erit parallelum. Ergo st conus secetur plano
+
+per redtas DF, BE transeunte sertio erit parabola per Des. r. cujus est η
+DF diameter per Des. 3. et huic diatnetro κᾶε BE dupla ordinata
+
+per Def. 5.
+
+PROP. XXIV. PROB. IV.
+
+Datis politione et magnitudine duabus restis, quarum una
+ab alteri bifariam secatum describere in plano parabolam, ·
+in qua reda alteram bifariam secans, erit diametri abscissa,
+reeta vero bifariam seda huic diametro dupla ordinata.
+
+lNT data positione et magnitudine reetae ΑΕ, BC, quarum Fre. ²4·
+reda ΑΕ bifariam secat tedam BC in pundlo E; oportet pa-
+rabolam in plano describere ‘cujus erit ΑΕ abscissa diametri, et BC
+huic diametro dupla ordinata. ’
+
+Reetis ΑΕ, ΕΒ fit reela M tertia proportionalis, et producatur
+EA usque ad punctum 1, donec fit AI quarta pars redtae Μ. Per ¹
+pundttm A ducatur reeta TN ipfi BC parallela. Sit angulus NA!
+vel minor angulo IAT vel aequalis ei t fiatque angulus NAF angulo
+NAI aequalis, et ad easdem partes redte IE. Ponatur item redla ’
+AF κᾶε Al aequalis; et per pandum 1 ducatur resta indefinita
+DX, ipsi lE adrectos angulos. His ita comparatis, applicetur
+latua QG normae QGs reetae Dx, et alterum ipsrus latus GS reelae
+lE. Extremitati S lateris GS annectatur una extremitas fili SAF,
+ejusdem longitudinis cum latere GS; altera vero extremitas lili
+
+s ligatur in pundlu F. Ope paxilli A adducatur pam lili SA ad latus
+normae GS, et juxta ipsum tendatur. Deinde moveatur latus QG
+secundum tertam DX, et interea filum paxillo distentum semper
+lateri Gs applicatum teneatur ς lineaque motu paxilli A del-'cripta
+erit curva parabolae, quam oportebat describere.
+
+Puta enim parabolam describi cujus reeta ΑΕ est abscissa diame-
+
+. tri, setta vero BC huic diametro dupla ordinata, quod per praece·
+· · 1 2 dentem
+
+ 
+

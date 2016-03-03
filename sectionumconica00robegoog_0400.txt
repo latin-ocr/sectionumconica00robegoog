@@ -1,0 +1,39 @@
+324 De Sesstonum cansarum Domina,
+
+et diametrum ut segmenta diametri inter ejus verticem et se·-
+cantem et inter ejus verticem et tangentem.
+
+Artificioso deinde et perquam eleganti theorematum horum ’
+usu illud quoque ostendit Archimedes, segmentum parabolae
+trianguli super eandem basam et ejusdem altitudinis esse ses-⁸
+quitertium. ‚
+
+Nec tamen interea magnum illum Archimedem fefelnt,
+hujuscemodi demonstrationem a nonnullis sortasse repudiatam
+iri, saltem minus acceptam sore, quod tota ex principiis me·
+chanicis pendere videretur. Aliam igitur in eundem finem, et
+eam omnino geometricam statim tradit; cujus etiam metho-
+dum et rationem ex sequentibus Ledtor facile perspiciet, quo-
+
+” modo ope parabola et methodo exhaustionum, uti appellatur,
+
+consessa est. ·
+
+Sit segmentumparabolae ABC. Bisariam secetur resta AC
+in G; reda vero AG in E; et per puncta G,E ducantur dia-
+metri GB, ED, et ipsarum vertices smt Β, l). compleantur
+triangula ABC, ADB, EBG; ducatur recta DI ipsi AC
+parallela, et occurrat rettaeBG in I; occurrat vero resia DE Δ
+ipfi AB in F. Qoniam igitur ut BG ad Bl ita quadratum
+ex AG ad quadratum ex DI, erit resta BG quadrupla ipfius
+Bl; et¹ proinde resta F E dupla reoae DF. Qare est trian- '
+gulum (1. ό.) ΑΒΕ duplum trianguli ADB, et idcirco trian-
+gulum ABG quadruplum ipsrus ADB. Si resta GC bifariam
+secetur in pundo K, et ducatur diameter KL, et construatur
+triangulum BLC, eodem modo demonstrabitur triangulum ’
+BGC quadruplum effe trianguli BLC. Sunt igitur triangula·
+
+ADB,
+
+ 
+

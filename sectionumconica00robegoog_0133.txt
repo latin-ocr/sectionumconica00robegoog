@@ -1,0 +1,41 @@
+82 ’ &Monam Conicarurn .L1 n. ΙΙΙ.
+
+PROP- ΙΙΙ, PRO B. 1.
+
+Datae ellipseos centrum invenire; et unicum esse centrum
+
+’ demonstrare.
+
+Fre 0··5 SIT data ellipsis BELG; oportetej us centrum mvemre ct uni-
+cum effe centrum demonstrare.
+
+Parsl. In ellipsr ducantur duae restae parallelae EG, HK. Du·
+catur reeta BL bifariam secans parallelas EG, HK, et occurrens
+curvae in punitis B, L. Bisariam secetur BL in puncto Cr dico
+punctum C centrum esse ellipseos BBLG.
+
+Nam per puncta B, L, Cducantur restae AB, LM, NP, ipsis EG,
+HK parallelae ς et occurrat NP curvae sectionis in pundis N, P. Tum*
+resta NP bifariam secabitur in puncto C, et reerae BA, LM ellipfim
+contingent in pundtis B, L ς per Cor. 1 et 2. Prop. 30. Lib. r.·-Rur-
+sus, per punstumCducatur quaevis κᾶε AM contingentibus inpune·
+tis A, M, curvae vero in punctis R, D, occurrens. Tum triangula
+'ABC, MLC, per constructionem (et 29. 1.) erunt aequiangula, et
+propter restas BC, CL aequales, erunt restae AC, CM aequalcs (26.
+1.)uti etiamcontingentes BA, LM. Porro, per Cor. 3. Prop. 24.
+Lib. r. ut quadratum ex BA ad quadratum ex LM rta restangulurn
+RAD ad reetangulum DMR; ct eum BA, LM sunt aequales, erunt
+quadrata ex rpfis aequalia. Ergo sunt redtangula RAD DMR aequa-
+lia, et proinde aequaresreuae RA, DM, per Lem. 5. Lib. r. Qrare
+reeta DR bifariam secatur in C, et punetum C est centrum ellipseos‚
+per Des. 3.
+
+Pars Is. Patet unicum esse centrum ellipseos: nam fi duo essent,
+resta per ipsa transiens et curva terminata bifariam secaretur in du·
+obus punctis.
+
+Cor. Recta bifariam secans¹ duas rectas parallelas rn ellipsr, est
+diameter.
+
+ 
+

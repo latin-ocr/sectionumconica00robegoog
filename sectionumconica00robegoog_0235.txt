@@ -1,0 +1,34 @@
+’ ιιι sedam comarum. ιν.
+
+, PARS 1. Occurrant redae GH, ΕΚ asymptotis in F, L et Ε,.
+K. Tum, propter parallelas AH, DG, erit DF ad FG ut
+CA ad HL, et idcirco per Prop. 41. (et 14. ς.) erunt DF, CA ae·
+quales. Rursus, propter parallelas ΒΙ, CK, erit BE ad Ει ιιι CB ·
+ad ιΚ, etidcirco per Prop. 41. (et ¹4· 5.) erunt CB, BE aequales'.
+‘Quare ιιι CA ad CB ita DF ad BE; etutDF ad BE( „6.)it2
+DG ad BI. Sed ut DG ad BI ita CB ad CD. Ergo (ιι. 5.) ιιι
+CA ad CB ita CB ad CD.
+
+Pars Ιι. Occurrant restae ΕΚ, GH asymptotis in E, K et F, Li
+et ιιι supra, demonstrabitur fedam DF aequalem effe ipfi CA, rec·
+tam vero ΒΕ aequalem ipfi CB. Quare ιιι DF ad BE ita cA ad
+CB, hoc est per hypothefiu, CB ad cD. Sed, per cor. 2. Prop.53.
+ut CB ad CD ita DG ιιι BI; etidcirco (ιι. 5.) ut DF ad BE ιιιι
+DG ad Blae Ergo (6. 6. et ιι. ι.) ιιέιε EK, FL sunt parallelae.
+
+Cor. Qoniam, per cora 2. Prop. 53. ut CB ad CD ita DG ad
+Bl; et ut CA ad CB ita 131 ad AHzeaeit(1=.5.)1)G adBI ut
+BI ad AH. -ι Ει, caeteris manentibus, fi contingens ΕΚ fit secanti
+F L parallela, et reAae AH, 131, DG smt fibi invicem parallelae, non
+vero parallelae asymptoto CL, erit DG ad BI ut BI ad ΑΗ. Nam
+(4. 6.)ut Bl ad IE ita se habet tum ΑΗ ad FH tum DG ad FG3
+etidcirco, per Lemma 4 Lib. ι.’ ut quadratum ex BI ad qua-
+dratum ex IE ita redangulum sub AH, DG ad restangulum HF G.
+Ergo, per Prop. 40. (et ¹4· 5.) erit quadratum ex BI aequale re&-
+
+angulo sub AH, DG3 et proinde (17. 6.) ut DG ad BI ita BI
+
+’ Ψιιιιιις. 20.
+
+ 
+

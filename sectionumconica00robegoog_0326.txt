@@ -1,0 +1,38 @@
+2 52 sationum Contiarum Lrn. VI.
+
+P R ΟΡ. XXVI.
+
+, Diametri bifariam secantes restas, quae vertices axium eilip·
+seos Jungunt, sunt conjugatae et aequalen3 et aequalea con·
+jugatae diametri ellipfcos bifariam secant restas quae ver· ’
+tices axium jungunt
+
+Fra ··54 PARSI. Srt ellrpsrs ADBE cu us sunt axes AB DE et centrum
+C3 diametri HG, KL bifariam secantes rectas BD, BE, quae
+jungunt vertices axium, sunt aequales et conjugatae.
+Per verticem Bducatur contingens MN diametris HG, KL pro-
+funeris in punctis M,N occurrens. Porro, occurrat diameter HG redtae
+DB in pundto F, diameter vero KL redtae BE in pundto 1. Tum
+propter aequales DC, CE et redtoa angulos DCB, ECB,erunt aequales
+· (4. ι.) DB, ΕΒ, et idcirco earum dimidia FB, ΒΙ aequalia. Rursus
+. propter aequales DF, FB et redium angulum DCB, srcentro F et
+distantii FD circulus describatur, circumferentia ejus per punsta C, Β
+transibit, et proinde erunt aequales FC, FB. Eodem prorsus modo
+demonstrabitur, quod restae c1,113 inter se et propterearedtis CF, FB
+sunt aequales. Ergo anguli F CB, FBC (6. ι.) uti etiam anguli FCB,
+lCB (8. 1.)sunt aequales·et proinde rediae FB KL (27,1)p,arallelae
+et diametri HG, KL conjugatae per Prop 10. Lib. 5. Rursus ,quo-
+niam contingens MN parallelo est ordinatis axis AB ‚anguli ΘΒΜ,
+CBN sunt redii. Quapropter erunt CM, CN (26, 1.)aequales, et
+idcirco redtangulum MCF aequale rediangulo NCI. Sed reciangu-
+lum MCF aequale est quadrato ex CG et resiangulum NCI quadrato
+ex CL, per Prop. 12. Lib. 5. (et 17. 6.). Ergo semidiametri CG,
+CLJ et proinde diametri HG, KL inter se sunt aequales. .
+Pars ΙΙ. Sit ellipsis ADBE cujus diametri conjugatae HG,KL
+sunt aequales, et centum C: diametri HG, HL bifariam secabunt
+restas jungentes vertices axium.
+
+Jungatur
+
+ 
+

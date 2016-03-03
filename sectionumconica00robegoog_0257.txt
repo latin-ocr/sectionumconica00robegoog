@@ -1,0 +1,42 @@
+Scamnum Conicarum Lm. V. 187
+
+PR 0 P. XXI.
+
+Recta curvi sectionis conicae terminata per {ocum ejus tran·
+siens et axi ordinatim applicata, aqualis est parametro ip·
+sius axis. Qaevis resta vero per focum parabola duda et
+curtd samonis terminata, aequalis est parametro istius dia·
+metri cui ordinatim applicatur..
+
+PARS l. Patet ex cor. Des. 9. Lib. 23 cor. Des. to. Lib. 3 t cor.
+Des. ια. Lrb. 4.
+
+Pars 11. ln parabola Aac stt quaevis reda AH per socum F 1²10. ις. ’
+duda, erit AH aequalis parametro istius diametri, cui ordinatim
+applicatur.
+
+Α Sit ΑΗ ordinatim applicata diametro DE. Per verticem duea- =
+tur retra DG ordinatae ΑΗ parallela, et occurrat axi BF produsto in
+pundo G. Tum recta DG continget parabolam per Prop. 3. et
+figura EG erit parallelogrammum. Quapropter erit abscissa DE
+-aequalis (34. r.) redae F G, boc est, aequalis rertae DF, per cor. 2.
+Prop. 18. Lib. 2. Itaque, per Prop. 22. Lib. 2. abscissa DE est
+quarta pars parametri diametri DE. Sit reda IK parameter diame-
+tri DE, et proinde quadrupla absciliae DE. et bifariam secetur 11< ,
+in pundo L. Tum erit reda IL dupla abscissae DE, et propterea
+ut DE ad lL ita se habet IL ad lK. Qum, redargulum sub DE,
+ll( (17. 6.) aequalerest quadrato ex lL, itemque quadrato ex AE
+per Prop. rr. Lib. 2. et idcirco sunt aequales redlae lL, ΑΕ. Ergo
+earum dupla lK, AH aequalia sunt, et reda AH aequalis parametro
+diametri DE. .
+
+Cor. Si‘retla in paraboli transeat per socom et secet diametrum
+cui ordinatim applicatur, abscissa diametri aequalit erit distantiae ip-
+sius verticisa wfoco seu diresirice. Abscissa enim DE aequalis est
+reslae DF, et proinde per hanc et cor. r. Prop. at. Lib. 23 boc co·
+
+uollarium manifestum est.
+Aaa PROP.
+
+ 
+

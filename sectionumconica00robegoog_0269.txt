@@ -1,0 +1,43 @@
+‘ 198 Serranum Conicarum 1213. V.
+
+dratum ex GH ad quadratum ex CK; et proinde ut quadratum ex
+Hl ad redangulum AIB (35. 3.) ita quadratum ex CD ad quadra·
+turn ex CB. Ergo pundum H estin curvi ellipseos, per Prop. 9.
+
+PR ΟΡ. XXX.
+
+Fron, Si a verticibus F, 1 duarum diametrorum conjugatarum
+aa. GF, HI ellipseos vel hyperbolae ducantur ad diametrum
+AB retra FK, IL ordinatis diametri AB parallelae, et fit
+
+,centrum C; erit quadratum ex CL aequale rostangulo
+
+AKB contento absciffis diametri AB inter ejus vertices et
+
+pundsiun} 1<; modo in hyperbold fint AB, GF diametri
+tran ver .
+
+AM diametro AB srt DE diameter conjugata ς et per pundum
+
+F ducatur contingens F M, occurrens diametris AB, DE in
+N, Μ. Tum erunt rebbae MN, HI, uti etiarn ΕΚ, IL, cM, inter
+se parallelae‚ per Prop. 11. Qare (2. 6.) ut FN ad FM ita KN ad
+KC; etidcirco, (226.) ut quadrarum ex FN ad quadratum ex
+ΚΝ ita reetangulum MFN ad redangulum CKN. Sed quadratum
+ex FN ad (4. et aa. 6.) quadratum ex ΚΝ ita se habet ut quadra·
+tum ex CI ad quadratum ex CL; et proinde (11. ς.) ut quadratum
+ex CI ad quadratum ex CL ita restnngulum MFN ad redbangulum
+CKN. Sed quadratum ex CI est aequale redangulo MFN, per
+Prop.l17. Lib. 3, et Prop. 26. Lib. 4. Ergo (14. 5.) erit quadra-
+tum ex CL aequale redangulo CKN, hoc est reetangulo Ampor
+cor. r. Prop. 14· Lib. 33 et cor. 1. Prop. 24. Lib. 4.
+
+Cor. I. Hinc erit in ellipsr quadratum ex CK aequale reuangulo
+ALB. Nam exceffus quadrati ex CB supra quadratum ex CL (5. a.)
+aequale est redarguio ALB, excessus vero quadrati ex CB supra
+redrangulum AKB aequaie est quadrato ex CK. Sed in hyperboli
+
+erunt
+
+ 
+

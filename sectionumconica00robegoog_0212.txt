@@ -1,0 +1,49 @@
+'De Hyperbola. · 147:
+
+duda bifariam secabit rectam jungentem conanus, et proinde erit ⁴
+diameter secunda.
+
+ιιιι-ιιιιιιίο ιιι.
+
+AETERIS manentibus ut in Des. 1, intersediiones KQ, IR Fre. ³4·
+plani hyperbolarum oppofitarum EVF, GLH cum duobus
+
+planis AK, ΑΙ, quae superficies tunicas contingunt secundum rectas
+AN, AM in planu verticaii ΛΜΝ posrtas, Astmptoti hyperbolarum
+
+dicuntur. ’ .
+
+Cor. 1 Asymptoti KQ, IR sunt parallelae lateribus AN. AM
+perDef.1.(et1611.).
+
+“ Cor ΙΙ. Asymptoti KQ, IR cum hyperbolis EVF, GLH non
+conveniunt. Nam plana AK, Αῐ, superficies tunicas contingunt
+secundum recht AN, AM, et asymptoti ΚΩ, iR suntin his planis,
+
+et per Cor. 1. parallelae rectis AN, AM. Qtare asymptoti KQ,
+
+nt non possunt occurrere alterutri superficierume et proinde cum
+
+hyperbolis non conveniunt.
+
+Cor 111. Qtaevis tetta tn plano hyperb'olarum etalteruttiasymp· .
+totorum parallela, curvae unius hyperbolarum oppositarum in uno
+pundo, etin isto tantum occurret. Patet pet Cor. ι. praecedens et
+ι Prop. ¹5· Lib. 1.
+
+- Cor. lv. Si hyperboia EVF et asymptoti KQ, IR in infinitum Fre. ις.
+producantur, adse ipsas propius accedent, et ad intervallum minus
+quolibet dato intervallo X pervenient. Nam occurrant asymptoti
+fibi invicem in puncto C, et in CK sumatur segmentum CD minua
+
+dato intervallo X. Per punitum D ducatur retia ΝΙ) asymptoto ’
+ct paralleia, et occurrat curvae in puncto V, quod per Cor. 3. fieri
+
+potest.. Per punctum V ducatur retia VM ipst CD parallela, et oc-
+currat asymptoto cl ιιι Μ. Τιιιιι erit VM (34 nemausen,
+et proinde minut dato intervallo X.
+
+Ta
+
+ 
+

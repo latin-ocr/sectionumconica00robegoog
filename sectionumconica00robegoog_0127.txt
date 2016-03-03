@@ -1,0 +1,18 @@
+De Parabola. 75
+
+Cor. l. Manentibus jarn politis in Propolitione, segmentum pa-
+rabolicum ABC ad triangulum AEC ita se habet ut a ad 3.
+Α Cor. ΙΙ. Segrnentum parabolicum ABC ad parallelogrammum
+circumscriptum ita 'se habet ut a ad 3. Caeteris enim manentibus,
+ducantur per pundta A,C diametri AR, CS occurrentes in R, S
+contingenti FG. Quoniam igitur, per constructionem et Cor. 1.
+-Det 3, sunt inter se parallelae AR, CS, itemque RS, Ac, erit
+Rc parallelogrammum segmento parabolice ABC circumscriptum.
+Sed parallelogrammum RC duplum' est trianguli ΑΒΕ (41. ι.) et
+proinde aequale triangulo AEC. Ergo per Cor. 1. segmentum ΑΒΕ
+ad parallelogrammum Rc irase habet ut a ad 3.
+
+Ka ssscrlouunt‘
+
+ 
+

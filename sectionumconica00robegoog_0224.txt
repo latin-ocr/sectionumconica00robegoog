@@ -1,0 +1,46 @@
+Defflperbola„ , . ¹59:
+
+lNT hyperbolae opposrtae V, L, quarum asymptoti sunt CH, 1²¹⁰·42·
+CK, et a pundo A,.in.cnnahyperb01ae V, ducantur ad
+asymptotos redire AB, AD, et. ab alio quovispundo B, in curvi⁴
+hyperbolae V, vel in curvi hyperbolae L, ducantur ad asymptotos
+redlae BF, BG, redis AE,.AD parallelae, erit rediangulum EAD.
+aequale reetangulo GBF..
+
+Nam jungatur AB et occurrat asymptotis. in H, Κ. Et propter
+parallelas EA, FB, erit EA ad FB ut HA ad HB; hoc est, propter
+aequales HA, ΒΚ et ΗΒ, ΑΚ, per Prop. 41, ut EA ad FB ita ΒΚ ad
+ΑΚ. Rursus, propter parallelas BG, AD, erit ΒΚ ad AK ut BG
+ad AD. Ergo (ιι. ς.) ut EA ad BF ita BG ad AD, et proinde
+(16. 6.) est retiangulum EAD aequale redangulo GBF. 92. E.D:
+
+, Cor. 1. Hinc, si fit centrum C, et a duobus punctis A, B in·
+curva hyperbolae V, vel in curuis hyperbolarum oppositarum V„ L,
+ducantur duae'rediae ΑΕ, BF ad. eandem vel· diver-sas asymptotos et
+
+alteri asymptoto parallelae, erit restangulum (ΖΕΑ aequale rellan-¹ '
+gulo CFB. Nam completis parallelogrammis, CEAD, CFBG,
+erunt reuangula EAD, FBG, hoe. est (34. 1.) rediangula CEA,
+
+CFB inter se aequalia.. . .
+
+Cor. ΙΙ. Manentibus jam positis, propter aequalia redangula,
+etit CE ad. CF (16.. 6.).>utFB ad EA. Sed parallelogramma CA,
+CB sunt aequiangula, et proinde erunt (14,·- 6.) inter se aequalia.
+
+Cor. ΙΙΙ. Hinc li jungantur CA, CB, erunt triangulaCEA, CDA,
+CFB, CGB (34. 1.) interse aequalia. ·
+
+Cor. IV. Hinc caeteris manentibus,.sr redte HK, MN contin- Fre. 43.
+gentes hyperbolum, vel hyperbolis oppositae, in A, B, occurrant
+asymptotis i'n Η, Κ et Μ’, ’Νς erunt triangula CKH, CMN inter
+se aequalia. Nam segmenta HA, ΑΚ sunt aequalia, per Prop. 413
+et proinde Ant HE, EC (a. 6.) uti etiamCD, DK aequalia. Quare
+parallelogrammum CA est duplum (41. 1.) tum trianguli HEA,
+tum trianguli ADK; et idcirco triangulum CKH duplum paralle- Α
+
+logrammi CA. Eadem ratione demonstrabitur triangulum1 Clllth
+up um
+
+ 
+

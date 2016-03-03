@@ -1,0 +1,45 @@
+&monumentorum L113. V. 209
+
+ipst CB, per Prop. 183 et idcirco perhanc (et 11. ς.) ut CH ad
+semiaxem transversum CB ita semiaxis conjugatus ad CR. ,
+
+PR ΟΡ. XXXIX.
+Si tecta ellipsrm vel hyperbolam contingat, et a contactu ad
+
+transversum axem ducatur tedia contingenti perpendicu-
+laris, et acentro ducatur redla ad contingentem ci perpen-
+dicularis ς hae ducta continebunt rectangulum aequale qua·
+dtato ex semiaxe conjugato.
+
+ONTINGAT rcdla LP ellipstm vel hyperbolam BP in lump.
+pundlo P, ct a contactu Pducatur recia PK ad axem trans· 3⁸·
+
+, versum AB, contingenti PL perpendicularis, et a centro C ducatur ·
+recia CL ad contingentem PL, ei perpendicularis: perpendiculares
+PK, CL continebunt rectangulum aequale quadrato ex semiaxe con-
+jugato.
+
+Ducatur axis conjugatus DE occurrens contingenti PL in pundo
+1, et a contactu? reda PG axi AB parallela, reda vcro PH axi
+DE parallela. Et quoniam sunt anguli recti lCB, PHK, erunt an-
+guli PKH, KPH fimul aequales duobus restis (32· 1.). Sunt autem
+aequales anguli'LCB, PKH (29. 1.) et propterea anguli KPH‚ LCl
+sunt aequales, ct propter renos PHK, CLl, aequiangula sunt trian-
+gula PKH, ClL. ltaque ut CL ad Cl ita le habet (4 6.) PH ad
+
+- PK ς et proinde (17. 6.) redlangulum sub CL, PK aequale est redi-
+angulo sub Cl, PH, hoc est, propter parallelogrammum GH, rect-
+angulo lCG. Sed rectangulum lCG aequale cst quadrato ex (ΣΕ, per
+Prop. 12. (et 17. 6.) et proinde reclangulum sub CL, PK aequale est
+quadr'ato cx semiaxe conjugato CE.
+
+Cor. Caetcris manentibus, fint foci F,O, et ducantur ad contin-
+gentem redlae FM, ΟΝ redlis CL, KP parallelae, et per hanc et
+cor. 1. Prop. 35. (et 16. 6.) erit ΟΝ ad KP ut CL ad ΡΜ. Porro
+st contingens occurrat axi AB in Q, erit QO ad QK ut QC ad QF
+(4· 6.).
+
+D d PROP.
+
+ 
+

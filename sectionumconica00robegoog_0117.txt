@@ -1,0 +1,40 @@
+De parabola. , 65³
+
+Part 1. UONIAM ex hypothesr, est angulus EAG renus, et:
+
+per Def. 7. reeta AD ipst GE perpendicularis, erit
+redangulum EDG (8.et 17, 6.) aequale quadrato ex AD t et pro-
+inde per Prop. tt. redtangulum EDG aequale est redangulo sub
+perimetro axis et abscidit BD. Ut igitur F D ad BD ita se habet
+parameter axis ad DG. Sed absciffa BD dimidium est segmenti
+ΕΙ) per Ptop. 6. et propterea DG dimidium parametri axin-Seg-
+mentum DG dicitur Subnomalis.
+
+Pars 11. Renangmum GED (per 8 et ¹7· 6.) aequale est qua-
+drato ex ΑΕ; hoc est, per Cor. 1. ad Prop. ιι. redangulo sub
+ΕΒ et ¹parametro diametri AH. Itaque ut ΕΙ) ad ΕΒ ita parame-
+ter diametri AH (16. 6.) ad EG« Segmentum vero ΕΒ dimidium
+' est segmenti Et), et idcirco segmentum EG dimidium parametri di-
+ametri AH, per conradum A transeuntis.
+
+Cor. Hinc manifesto constat, parametrum axis minorem effe
+parametro cujusvis alius diametri.
+
+PRO P. XXII.
+
+Recta a puncto quovit in cuth parabolae ad focum duaa, est ’
+’ (iiim pars patametti. diametri pet idem pandum tran· Ι
+
+· UCATUR apunsto quovis A, in curve parabola. ABC potito, pm, Μ,
+reeta AF ad focum F·, erit AF quarta pars patametri diame-
+tri AH per punttum A trunseuntis. ’
+Per pundum· A ducatur contingens AF. et occurrat axi BG pro·
+dudo in peneto E. Porro ducatur AG contingenti ΑΕ perpendi·
+cularis, et occurrat axi in pundo G. Erunt igitur aequales AF, ΒΕ,
+per Cor. 2. Prop. 18. Est etiam angulus EAG redut, et propter-
+ea fi‘ centro F et distantia ΡΑ circulus describente, circumferentia
+ejus pet putida E, G (31. 3.) tranfibit. ltaque est AF dimidium
+’ 1 ’ reeta
+
+ 
+

@@ -1,0 +1,41 @@
+cicilianum Conicarum Lm. Vl. '2²33' -
+
+’ Jungatur vertices H,K et ducatur diameter AB bifariam secans
+angulum KCH seu GCL, et reeta KH in puncto 0 occurrens.
+Tum propter aequales HG, KL, erunt aequales ΚΕ, HC, et proinde
+(4. ι.) ΚΟ, ΟΗ, uti etiam anguli KOC, HOC, aequales. Qrare est
+diameter AB axis. Ducatur a vertice B dupla ordinata BD dia·
+metro HG, ipsi in puncto F et curvae iterum in punsto'D occut-
+rens: et ducatur diameter DE. Et quoniam diametri HG, KL
+conjugatae sunt, erunt KL, BD parallelae, per cor. Prop. ιο. Lib. 5.
+Itaque angulus F BC (29. 1.) aequalis est angulo LCB, etidcirco
+angulo FCB.' Reclae igitur (6. t.) FC, FB sunt aequales, et proinde
+st centro F et distantia FD circulus describatur, circumferentia
+ejus per puniia C,B transibit. Ergo angulusDCB reclus est
+(31. 3.)ι et diameter DE axis. Sed resta DB jungit vertices D,B
+axium, et bifariam secatur diametro HG, quoniam ipsr est dupla
+ordinata.
+
+j Cor. Ι. Hinc manifesto constat esse tantum unum par diametro·
+rum conjugatarum ellipseos inter se aequalium.
+
+Cor. ll. Manentibus jam positis, patet angulum GCL aequalem
+
+esse angulo DBE, et fi jungatur DA, patet angulum KCG aequalem
+esse angulo ADB. ·
+
+PR 0 Ρ. XXVII.
+
+Angulus obtusus, quem comprehendunt aequales conjugata
+’ · diametri ellipseos, est maximua,et angulus acutus est mi· , ,
+nimus, angulorum omnium qui duabus conjugatis diame-
+tris comprehendi possunt.
+
+Sil* ellipsis ADB cujus est AB axis transversus, et DE axis con· 1²¹⁰·55·
+
+jugatus, et jungantur vertices AD, DB,BE. Tum erit angulus
+ADB aequalis angulo obtuso, angulus vero DBE aequalis angulo
+· ' acuto,
+
+ 
+

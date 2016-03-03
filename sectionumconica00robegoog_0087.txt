@@ -1,0 +1,44 @@
+Sethonum doricarum Lm. l, 41
+tionem figura ID est parallelogrammum, et proinde (34. ι.)’ resta “
+
+le resiae ED, reeta verolE reetae CD, aequalis. Ergo ut HI ad
+ΕΙ) ita Al ad BC ; et propterea ut reuangulum HIC (1. 6.) ad
+quadratum ex ED ita rettangulum AIE ad reuangutum BCD; et
+permutando ut reslangulum HIC ad restangulum AIE ita quadra·
+tum ex ΕΙ) ad restangulum BCD. sed per Prop. 24. ut retlangu- .
+lum HIC ad reclangulum AlE ita quadratum ex ED ad quadratum
+ex CD. Ergo restangulum BCD (7. 5.) aequale est quadrato ex CD,
+et idcirco segmenta BC, CD aequalia. ’
+
+Caeteris manentibus, srt reela ΑΕ inter punitum F et contin· Pro. 56. ,r
+
+gentem BD. Sit resta LM renis ΑΕ, BD parallela et contingat
+sectionem in pundo N et occurrat contingentibus BF, DF in
+punslis L, M. Eodem prorsus modo ut supra demonstrabitur seg-
+menta LN, NM esse aequalia, et proinde quadratum ex LN aequale
+quadrato ex NM. Sed per Cor. 2. Prop. 24. ut quadratum ex AL
+ad quadratum ex LN ita quadratum ex AB ad quadratum ex Bc, et
+permutando ut quadrarum ex AL ad quadratum ex AB ita qua·
+dratum ex LN ad quadratum ex BC: eteodem modo ostendetur
+,quod quadratum ex EM ad quadratum ex ΕΙ) ita se habet ut qua·
+⁴ dratum ex MN ad quadratum ex DC. . Ut vero reeta AL ad AB ita
+(ιο. 6.) ΕΜ ad ΕΙ), et idcireo per Cor. ad Lemma 4. ut quadra·
+tum ex AL ad quadratum ex AB ita quadratum ex EM ad quadra·
+tum ex ΕΙ). Ergo ut quadratum ex LN ad quadratum ex BC
+(ιι. 5.) ita quadratum ex MN ad quadratum ex DC. Ergo (14. ς.)
+quadratum ex BC aequale est quadrato ex DC, et idcirco segmenta
+EC, DC aequalia. , QE. D.
+Cor. Ι, Manentibus jam pofitis, resta per puncta F, Cdusta Fre. 57.·
+
+bifariam secabit quamvis restam ips1 BD parallelam et contingenti-
+bus AF, EF terminatam. Occurrat enim reeta FC restae ΑΕ in
+pundo P 3 et segmentum BC erit ad ΑΡ (4. 6.) ut FC ad FP, et
+FC ad FP ut segmentum CD ad ΕΡ. Ergo utBC adAP ita(11. ς.)
+
+'CD ad ΕΡ, et proinde (ι4. 5.) AP, ΕΡ sunt equales.
+Cor. ΙΙ. Caeteris manentibus, breda ΑΕ bifariam secetur in
+pundo P, ιοᾶι per pundo C, P dueta bifariam secabit quamvis
+F rectam
+
+ 
+

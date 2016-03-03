@@ -1,0 +1,46 @@
+De Hyperbola. · 137
+
+describatur circulus DKE, curvam'hyperbolae in punEtisDAE secans. .
+Ducatur rePca DE et bifariam secetur in punfto 1, et per punctum
+
+Ι dueatur transversa diameter AB. Ducatur secunda diameter LM
+resta DE parallela; et diametri AB, LM ax'es erunt.
+
+Rectaenim DE bifariam secatur m pundol, ideoque diametro ·
+AB ordinata est. Anguli autem EIA, DIA sunt redi (3. 3.)et
+propterea, per Des. 8. est AB axis. >
+
+Rursus, quoniam diameter LM ordinatae DE est paralleia, dia· .· ·
+metri AB, LM sunt con j‚ugatae per Prop 14, et per Prop. ¹4·
+
+(et 29. 1.) diameter LM bifariamsecabit suas ordinatas ad rectos
+angulos. Ergo per Def. ς. et 8. est LM axis.
+
+Axis AB dicitur aris transversus, axis vero LM axis conjugatas.
+
+PR Ο P.XXV111.
+
+Hyperbolae duo tantum sunt artes, et omnium diametrorum
+axes sunt minima.
+
+Pars Ι. YPERBOLAE AEF fit axis transversus GE,- et LM fre. ²4»
+· ejus conjugatus axis; alia diameter non est axis. ,
+Nam fit centrum C; etsr fieri potest, srt diameter DF transver-
+sus axis, et ejus conjugata diameter KP. Contingat redia Fr hy-
+perbolam AEF in puncto F et occurrat axi GE in T. Ducatur F 1
+axi GE ordinata. Quare contingens TF erit ordinatis axis DF pa-
+rallela, per Cor. 3. Prop. 9 ; etproinde angulus CF T rectus per Des. 8.
+(et 29. 1.). Sed propter axem GE et ejus ordinatam Fi, est angulus
+CIF rectum et idcirco anguli CF 1, CI'F majores duobus rectis an·
+gulis: quod (17. 1.) est absurdum. Ergo diameter DF non ,est axis.
+Eadem ratione demonstrabitur quod diameter KP nonest axis.
+Pars 11. Iisdem manentibus. quoniam angulus CIF rebius est,
+reeta CF (19. 1.) major est quam reeta CI, et propterea multo ma-
+jor quam CE. igitur diameter DF major est diametro GE. Rur-
+sus per punctum Educatur ad TF reda ΕΒ, ordinatae IF paranda,
+
+ideoque per Cor. 1. Prop. 9. hygerbolam contingens. {um per
+rop. 24.
+
+ 
+

@@ -1,0 +1,46 @@
+’ De Elltfft. 87
+
+Cor. 1. Cuivis diametro ellipseos est una, et una tantum diameter
+conjugata. Nam, manentibus jam posuis, quaevis alia diameter,
+praeter DE, bifariam non secabit tedam LI.
+
+Cor. 11. Duae diametri ellipseos sunt conjugatae, sr una earum stt ·
+parallela contingenti per verticem alterius duetae z perhanc et Cor.
+3. Prop. 4.
+
+Cor. ΙΙΙ. Ordinata cujusvis diametri vel contingens per ejus
+verticem dusta est parallela ejus diametro conjugatae, per hanc, et
+· per Cor. t. Prop. 5. et Cor. 3. Prop. 4.
+
+Cor. IV. Si duae diam etri conjugatae se mutuo ad redes
+angulos secent, non erunt aequales. Nam, caeteris manentibus,
+fint diametri conjugatae AB, DE fibi invicem perpendicularem
+et per Prop. 7. ut quadratum ex DC ad quadratum ex AC ita rect·
+angulum DGE ad quadratum ex ordinat& LG; et proinde st AB,
+DE essent aequaleS, quadrata ex DC, Ac essent aequalia, et (14. ς.)
+redangulum DGE aequale quadrato ex LG. Ergo, per Lemma
+pag. 77. (et 29. 1.) esset ADBE circulus, contra hypothesin.
+
+vPROP. IX. PROB. ΙΙ.
+
+Datis pofitione ellipfi ejusque diametro ; per datum punctum
+in curva, quod non estdatae diametri vertex, restam ducere,
+quae fit datae diametro ordinatim applicata.
+
+SIT data ellipsra ADB, diameter ejus AB, et in sectionis curvd Fre. 9·
+punctum F, quod nonest diametri AB vertex 3 oportet per
+puodtum F rectam ducere quae stt ordinatim diametro AB applicata.
+
+Sit punctum C centrum ellipseos et ducatur diameter F CL. Per
+pundtum L ducatur resia LI diametro AB parallela. strenam ·
+ellipsim contingat‚'diametri FL, AB erunt conjugatae³ perCor. a.
+
+Prop. 8 3 et diametri conjugatae dicuntur fibi invicem ordinatim ap-
+plicari. Si vero reda Ll ellipsrm secet, occurrat curvae iterum in
+puncto 1, et jungatur ΡΙ. Recta F s erit ordinatim diametro AB
+
+applicata· Nam occurrat resta ΡΙ diametro AB in pundo N, et ’
+“ propter
+
+ 
+

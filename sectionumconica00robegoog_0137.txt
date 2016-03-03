@@ -1,0 +1,42 @@
+86 Sestionum Com'c'arum L1 Β. ΙΙΙ.
+
+ex IH ad restangulum LHD ita quadratum ex GC ad quadratum
+αξξ. Ι. Manentibus jam positis, contingens AB ad contingentem
+BI (aa. 6.) ita se habet ut semidiameter EC ad semidiametrum GC.
+, Cor. II. Hinc (et ιι. 5.)st duae renae contingentibus AB, ΒῙ
+parallelae, altera alteri, ellipsim contingant, erunt inter se ut AB
+ad BI.
+
+PR ΟΡ VIII.
+
+Duae diametri ellipseos, quarum una est parallela redlis ordi-
+natior alteri applicatis, sunt diametri conjugata.
+
+ι . ΙΝΤ renae AB, DE diametri ellipseos ADBE, et diameter DE
+parallela restis diametro AB ordinatim applicatis, diametri
+AB, DE sunt diametri conjugatae.
+
+Sit enirn rena LI diametro AB parallela, curvae in puntiis L, I
+sed diametro DE in punsto G, occurrens. Per vertices A, B du-
+’ cantur contingentes AH, ΒΚ et occurrant resiae LI in ponstis H, K.
+Tum erunt AH, ΒΚ parallelae, per Cor. a. Prop. 5 ; et proinde HC,
+GB, ΗΒ parallelogramma. contingentes igitur AH, ΒΚ (34. ι.)
+funt aequales, et idcirco quadrata earum aequalia. Rursus, per Cor.
+3. Prop. 24. Lib. r. quadratum ex AH ad quadratum ex ΒΚ ita
+se habet ut reslangulum LHI ad resiangulum 1KL; et proinde seg-
+menta HL, IK sunt aequalia, per Lemma 5. LIb. 1. Sed rectae
+HG, AC (34. ι.) uti etiam GK, CB sunt aequales; et quoniam est
+pundlum C centrum, sunt HG, KG aequales. Qrare diameter DE
+bifariam secat LI in punsio G, et idcirco bifariam secabit omnes Β
+
+restas ipsr LI parallelas et curvi terminatas, per Prop.4; et quoni· · ’
+
+arn, per hypothefin, diameter DE parallela est retiis diametro AB·
+ordinatim applicatis, diameter AB bifariam secabit omnes restas ipsa
+DE parallelas et curvi terminatas. Ergo diametri AB, DE sunt‘
+diametri conjugata, per Des. 8. Q E. D. v
+
+Cor.
+
+ 
+

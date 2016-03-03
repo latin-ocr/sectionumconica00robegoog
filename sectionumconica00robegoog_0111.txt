@@ -1,0 +1,44 @@
+'De parabola ⁵ 61
+
+PRO P. XVII.
+
+¹Irr parabola unicus est focus.
+
+IT parabola ΑΒΕ cujus axis est BF K et focus Ἐς, alterum focum Ειο. 18.
+
+sectio nonhabet. ·
+
+Si enim fieri potest, srt punctum K, in axe politum, fiacus. Per
+
+. punsta F, K ducantur axi ordinata: ΑΚ, MF, et reum P fit axis pa·
+
+- rameter. Ordinata igitur MF dupla est absciffae BF. et ordinata
+ΑΚ dupla absciffae ΒΚ, per Der. 9. et hypothelin.. Sed. resta P
+tertia proportionalis. est retiis BF, ΜΡ, per Def. 8. itemque refikis
+ΒΚ, ΚΑ, per Cor. r. Prop. ιο. et Lemma pag. 53. Retia igitur
+Pdupla est ordinatae ΜΡ et proinde quadruplaabsciffae BF, item-
+que quadrupla absciffae ΒΚ. Qapropter absciffae BF. ΒΚ aequalea
+sunt3 quod est absurdum. ’
+
+Cor. si per utrumque duorum punstorum in curva parabolae
+transeam duae restae, altera quidam diameter produsta‚ altera vero
+contingens; et porro, fi ab eorundem utroque intra seffionem resta .
+ita ducatur, ut contingens bifariam ¹secetangulum ab hac et diame-
+tro produtha comprehensum ‘haerefiiae intra parabolam duaa se.
+mutuo secabunt in foco! Hoc liquet pe'r hanc et Prop. 16.
+
+PRO P. XVIII.
+
+Recta parabolam contingens bifariam secat angulum compra-
+hensum duabus retiis ductis per contastum, alteri quidem
+ad Iocum, alteri veroaxi paralleli.
+
+⁹ Hinc, Ii radiilucis in speculum concavum, revolutiouecmrael’arabolaecireauem
+tuum generatum, incidant. et suu axi paralleli, pust sermionem coibunt omnen in
+Fauo. Patet ex eo qiud angulus refleaiom aquaria est angula incidentia· urinae
+
+ruffina hoe Fortu vel Unbilr'cu dicim. =
+CONTINGAT
+
+ 
+

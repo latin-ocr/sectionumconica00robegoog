@@ -1,0 +1,32 @@
+162 Scaienum Conriarrtm Lm. IV.
+
+Cor. ΙΙΙ. Si diametri AB, DE fintaxes, patet quod sdci hyper·
+bolarum conjugatarum aequaliter distant a'centro, per Prop. 29.
+
+PROP. L.
+
+vertices diametri secunda hyperbolarum oppoiitarum sunt-
+in curvis hyperbolarum ipfis conjugatarum.
+
+110. 4⁶· INT conjugatae hyperbolae A, B, Ι), E, quarum asymptoti sunt
+GH, IK et centrum C 3 fitque hyperbolarum oppositarum A,
+B secunda diameter ΟΝ ; vertices ejus N, 0 erunt in curvis hy-
+perbolarum conjugatarum D, Ε. .
+Diametro ΟΝ srtdiameter conjugata PM, curvis in pondis P, M,
+occurrens3 etjungatur MN, et occurrat tedia MN asymptoto GH ia
+pundo L. SintAB,DEdiametriconjugataeut inoefar. et jungatur
+ο ΑΕ. Itaque, per Cor.2.Prop.43. πᾶσι MN, AB parallelae erunt a·
+symptotoIK,etpropterea(30.1.) fibi invicem parallelae. Erunt etiam
+perCor.2. Prop43. bifariam sedtae, et proinde redangulaAFCAEF C,
+uti etiam rediangulaMLC,NLC,aequalia. Sunt autem aequalia,per
+. ,con 1. Prop. 47, redangula AFC, ML& et propterea sunttetiam'
+aequalia redangula EFC, NLC. Sed pundum E, per Des. 16. et
+hypothesin, est in curvd hyperbolae 155 etidcirco per Cor. 5.
+Prop. 47. putidum N est in curvi hyperbolae E.. Pari ratione
+demonstrabitur verticem 0 effe positum in curva hyperbolae D.
+Cor. Hinc manifesto constat quod diameter quaevis secunda hy·
+perbolarum oppositarum, transversa diameter est hyperbolarum ,con-
+¹ jugatarum. ¹
+
+ 
+

@@ -1,0 +1,46 @@
+. 132 SerJz‘onam conicarum Lm. IV.
+
+occurrens. Er quoniam ob similia triangula et Lemma 4. [rib. r.
+ut quadratum‘ex F H ad quadratum ex EG ira quadratum ex NH
+ad quadratum ex NG, hoc est quadratum ex HL ad quadratum ex
+- GD; et per praecedentem ut quadratum ex FH ad quadrarum err
+EG ita quadratum ex HL ad quadratum ex GK: erit (rr. 5.)
+quadratum err HL ad quadratum err GD ut quadratum ex HL ad
+¹ quadratum ex GK. ltaque quadratum ex GD :equale est quadrato
+ex GK, hoc est rediangulo CGI (36. 3.). Ergo resta LN per punc-
+tum D transrens, transibit per contadtum K, per Cor. 1. Prop. 28.
+Lib. 1. ,
+
+Cor. Manifestum est quod reeta KL diametro AB non est ad rec·
+tos angulos. Si enim fieri potest, quoniam sunt aequalia quadrata
+ex KG, GD, ellent aequalia (47. 1.) quadrata ex KN, ND, et bifa-
+riam secaretur redta KD in puneto N. Porro, reeta KL bifariam
+secaretur in pundlo N (3. 3.) quod est absurdum.
+
+PR O P. XXlll.
+Sit retia AB diameter hyperbolaeB atque etiam circuli ΑΕΒ,
+
+et in AB produdld sumatur pundum quodvis H 3 a puncto
+Η ducatur tedia HL circulum in L contingens, et HF in
+hyperbold diametro AB ordinata, eta puudto L dimittatur
+ad diametrum perpendicularis LN, et jungatur NF 3 reeta
+NF continget hyperbolum.
+
+renim non contingit, ,curvae iterum in pundlo E occurrat, et
+ducatur ordinata EG. Ducatur GK circulum contingens in K
+
+ad contradas partes diametri AB iis ad quas est HL. Tum per ,
+
+praecedenrem, redta LN produlia transrbit per punitum K, et resta
+LN, per Cor. ad praec. nou erit ad redlos angulos diametro AB,
+
+contra constructionem: quod est absurdum. Ergo resta NF con·
+tingit hyperbolum.
+
+Cor. Si reda NF contingat hyperbolum in punelo F, et occurrat
+
+diametro transversae in punfto N3 et sr ducatur a conrado ordinata
+F H
+
+ 
+

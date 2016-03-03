@@ -1,0 +1,37 @@
+256 delirantem Conicarm Ltss. VI.
+
+PR O P. XXIX. Pnoa. I. Α
+
+Data ellipli vel hyperboli, et data ratione duarum diame-
+ι trorum sectionis conjugatarum invenire diametros· illas
+conjugatas tam magnitudine quam positione.
+
+Fre. 56, IT data ellipsis vel hyperbole KBF, et srnt duae diametri con-
+⁵⁷· jugatae inter se ut rectae S, T, oportet diametrosillas conjuga·
+tas invenire tarn magnitudine quarn positione.
+1²10· 5⁶· Primo stt sedlio ellipsis, et inveniantur axes AB, DE, et finnt in·
+ter se ut κᾶε S, T, erunt diametri inveniendae. Sin minus, junga-
+tur vertices BD, et srt reela LM aequalis ipsi BD, et describatur se-
+rnicircrdus LNM. Sit retia Vtertia proportionalis ipsis S, T; et ut
+tedia S ad restam V ita srt segmentum LP redtae LM ad segment-
+’ um ΡΜ. Ducaturredla ΡΝ ipsrLM perpendicularis, occurrens pe-
+ripheriae in N, et jungantur LN, NM. Tum erit rediaS ad rectam
+V ut quadratum ex recta S ad quadratum ex retii T; et quoniam
+est quadratum ex LN aequale restangulo MLP (cor. 8. 6.), quadra-
+tum vero ex MN aequale redangulo LMP 3 erit LP ad PM (1. 6.)
+ut quadratum ex LN ad quadratum ex NM. Qare erit quadratum
+’ ex LN ad quadratum ex MN ut quadratum ex redti S ad quadra· ,
+tum ex recia T, et proinde (aa. 6.) utS ad T ita LN ad MN.
+Ergo restae LN, MN sunt aequales semidiametris quas quaerimus,
+ut patet ex Prop. praec. et Prop. 31. Lib. ς 3 et idcirco fi centro C et
+' distantiis LN, MN circuli describantur, occurrentes curvae ellipseos
+in F, G ς diametri CF, CG erunt diametri quaesrtae.
+Ριοζςγ. Secundo stt sedlio hyperbola, et inveniantur axes AB, DE, etsi
+fint inter se ut rediae S, T, erunt diametri invenienda, et fi rettae S,
+T srnt inter se aequales, duae quaevis aliae diametri satisfacient pro-
+blemati. Sin minus, srt redta S major quarn reela T, et reita V
+
+ipsas
+
+ 
+

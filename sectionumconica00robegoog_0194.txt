@@ -1,0 +1,50 @@
+De &pabulas 13 3
+
+FH diametro AB, et reela HL circulum in pundo L contingens, ’
+
+et jungatur LNa reela LN erit perpendicularis ad diametrum. Si
+
+enim non lit perpendicularis, ducatur a pundo L resta LI ad dia-
+
+metrum ei perpendicularis, etjungatur IF, et recta IF continget hy-
+
+perbolam perhanc Prop. Sed reea NF contingit hyperbolam per ¹ ·
+hypothefin3 et proinde resta IF hyperbolem contingere non potest
+
+ἔέυἱφρ. 8. Lib. 1. Ergo reeta LI non est ad diametrum perpen-
+ns.
+
+PR O Ρ. XXIV.
+
+Si recta hyperbolam contingens diametro occurrat, et acon·
+tadtu ducatur reela ad diametrum ei ordinatim applicata ς
+erit semidiameter media proportionalis inter segmenta dia· ·
+metri inter centrum et ordinatam et inter centrum et con·
+tingentem.
+
+ONTINGAT redte FN hyperbolam F in pundto F ct dia· 1²10· 20·
+
+aetio AB in pundo N occurrat, et a pundlo F ducatur reeta ²¹·
+ΡΗ ad diametrum AB ci ordinatim applicata, et sit C centrum ;
+semidiameter CB media proportionalis erit inter segmenta CH, CN.
+
+Primo, lit diameter AB transversa. Centro C et intervallo CB vel Fre. 20.
+CA describatur circulus ΑΕΒ, et ducatur HL circulum in punsto
+L (17. 3.) contingens. Jungantur LN, LC. Tum reeta LN erit ,
+ipli AB ad raetos angulos, per Cor. Prop. 23. et angulus CLH
+(18. 3.) rectus. Itaque (Cor. 8. 6.) reeta CL, hoc est CB, media
+proportionalis est iuter CH, CN.
+
+Secundo, lit AB diameter secunda. Sit DE transversa diameter Fre. ιι.
+ipli AB conjugata, et ad DE a comaclu F ducatur F 1 ordinata.
+Occurrat contingens FN diametro DE in punelo G. His ita con-
+settis, erit CF parallelogrammum, per Cor. 3. Prop. 145 et perca
+supra demonstrata, ut Cl ad CE, ita CE ad cG, et proinde (Cor, a.
+
+20. 6.) quadratum ex Cl ad quadratum ex CE ut IC ad CG. lta-
+
+que, dividendo, reclangulum DlE (6. a.) ad quadratum ex CE itsa .
+e .
+
+ 
+

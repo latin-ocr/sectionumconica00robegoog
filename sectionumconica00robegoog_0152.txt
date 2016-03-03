@@ -1,0 +1,45 @@
+. w n. nnpfi. - 99
+
+Cor. Caeteris manentibus, srt centrum C, et axis conjugatus ID. “
+OccurratHG contingens focaIis axi conjugato in Ρ, et axi transverso
+in Q erit CP aequalis semiaxi transvorso.¹ Nam, per Prop. 14. (et ’
+17. 6.) ut FC ad CB vel CA, ita CA ad cQ, et componendo ut ’
+ΡΑ ad CA ita AQ ad CQveI (4. 6.) AH ad (ΣΡ. Ergo (14. ς.)
+κᾶε CA, (ΣΡ sunt aequales.
+
+PR 0 P. XXII..
+
+Manentibus ‘jam pofitis in praecedente, fi a puncto quovis L ιω. 19. .
+in curvi ellipseos ducatur tedia LF ad focum, et reeta LM ’ ’
+ad axem AB ipfi perpendicularis, occurrens contingenti
+focali in pundo K ς erunt KM, LF aequales. .
+
+AM producatur XM et occurrat curvae iterum in pundo N. ,
+Per Def. 7. et·hypothesrn‚ est rudia LN axi AB ordinata3 et >¹
+proinde per Cor. 3. Prop. 4. parallela contingenti AH. Quare, per
+Prop. 23. Lib. 1. erit quadratum ex ΤΗ ad quadratum ex TK ut
+quadratum ex AH ad rediangulum LKN. Sed propter parallelas
+AH, KM, TF, et Lemma 4. Lib. ι. '(et ιο. 6.) quadratum ex TH
+ad quadratum ex ΤΚ ita Ie habet ut quadratum ex FA ad quadra-
+tum ex FM. Ut igitur quadratum ex FA (ιι. 5.) ad quadratum
+ex ΡΜ ita quadratum ex ΑΗ ad redtangulum LKN. Sed restae
+AF, AH sunt aequales per praecedentem, etidcirco quadrata ex AF,
+ΑΗ aequalia. Ergo quadratum ex F M aequale est (¹4· 5.) redan-
+gulo LKN. His addatur quadratum ex LM, eritque (per 47. 1.
+et 6. 2.) quadratum ex LF aequale quadrato ex KM5 et proinde
+rettae LF, KMaequales. '
+
+PR 0 Ρ. XXIII.
+
+si a pundo quovis in curvi ellipseos ducantur duae retiae ad
+focos, erit ipsarum summa aequalis axi transverse.
+
+UCANTUR apundo quovisI in curvi ellipseos AIBD duae 1²10. 20, -
+
+κᾶε IF, 10 ad focos F, O ς erit ipsarum summa oequalis axi
+transverso AB.
+
+N a Ducantur
+
+ 
+

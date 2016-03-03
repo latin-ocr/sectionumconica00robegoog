@@ -1,0 +1,40 @@
+80 Sedunum caricarum L1 Β. Ill.
+
+interseElio cum circulo ACDG srt reeta BF. Centrum igitur circuli
+HBKF, per Prop. 3. Lib. ι. errt punclum 1, et proinde reeta BF
+bifariam secabitur in punito 1. In circulo ABDF ad redbos angulos
+ipli BF ducatur recta A1D et peripsam et verticem V transeat pla·
+num conficiens sectionem triangulum VNP ut in Prop. 2. Lib. t.
+Hujusce plani intersodlio cum plano circuli HBKF fit recta HK.
+Sumatur in rena AD punitum quodlibet L, per quod agatur pla-
+num plano basrs parallelum, conficiens circulum MCEG. Commu-
+nis interfectio circuli MCEG cum triangulo VNP fit resia ME, cum
+circulo ABDF vero reeta CLG. Itaque erunt redtae HK, ME, uti -
+etiam BlF, CLG parallelae (16. 11.)et propterea anguli BIL, CLI
+duobus rectis (29. 1.) aequales. Angulus autem BlL rectus est per
+constructionem, et proinde CLl rectus. Rursus, quoniam resia
+AD bifariam secat renam BF ad rectos angulos, erit recta AD circuli
+ABDF (Cor. 1. 3.) diameter. Qrare redla CG (3. 3.) bifariam
+. . secatur in puncto L. Sed reda ME est diameter circuli MCEG,
+per constructionem et 3. 1: et quoniam, per hypoth. axis coni,
+transiens per centrum bafia NOP, transit per punctum I, patet per
+3. ι. punctum Luon else centrum circuli MCEG. Qrare diameter
+ME (3. 3.) secat renam CG adrectos angulos. Itaque utrumque
+reclangulorum MLE, ALD (3 et 3 5 Lib. 3.) quadrato ex CL est
+aequale, et proinde inter se sunt aequalia. Ut igitur ML ad AL
+(16.6.) ita se habet LD ad LE, et cum angulus MLA (ις. ι.)
+aequalis est angulo DLE, erit angulus LDE angulo (6. 6.) AML,
+hoc est angulo VNP (29. 1) aequalis. Rursus quoniam redta CL
+perpendicularis est ad rectas ME, AD, est etiam perpendicularis
+(4. ιι.) ad planum trianguli VNP. Ergo plana circulorum ACDG,
+MCEG erunt ad triangulum VNP reeta (ι 8. ιι.) et propterea pla·
+num basis, cum parallelum est circulo MCEG, rectum erit ad tri-
+angulum VNP. Itaque sectio ABDF est sectio subcontraria.
+
+Cor. Sestio conica neque bafi parallelo neque scuto subcontraf
+ria, non ell circulus. · .
+
+DEFINITIONES.
+
+ 
+
